@@ -1,0 +1,24 @@
+
+
+div.hovedboks {
+    text-shadow: 1px 1px 1px 1px;
+    background-color: cyan;
+    border: 3px pink;
+
+}
+
+div.brødtekst{
+    background-color: pink;
+    border: 3px cyan;
+    width: 90%;
+    padding: 1%;
+
+
+}
+
+div {
+    background-color: darkolivegreen;
+    border-bottom: 4px dotted lime;
+    width: 40%;
+    padding: 1%;
+}
